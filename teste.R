@@ -1,6 +1,6 @@
 library(tidyverse)
 
-dados <- mtcars
+dados <- mtcars   
 
 dados <- dados %>% rownames_to_column("modelo") %>% 
   filter(cyl == 4) %>%
