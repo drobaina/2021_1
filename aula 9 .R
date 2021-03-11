@@ -1,5 +1,5 @@
 
-### criar a conta no github
+### criar a conta no github 
 
 ### baixar o git
 
@@ -13,7 +13,7 @@ library(usethis)
 ### informe o seu git 
 
 usethis::use_git_config(user.name = "drobaina", # Seu nome
-                        user.email = "drobaina@fgv.br") # Seu email
+                        user.email = "diogo.robaina@fgv.br") # Seu email
 
 ### no terminal 
 
